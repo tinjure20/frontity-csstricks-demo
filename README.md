@@ -3,7 +3,6 @@
 This repository contains all the Frontity package/libre-theme codes that were discussed in [CSS-Tricks](https://css-tricks.com/) article .....
 
 ![image](./screenshot.png)
-Frontity Labre-theme package screenshot 
 
 
 You can find package/labre-theme codes under `src/`
@@ -12,7 +11,9 @@ You can find package/labre-theme codes under `src/`
 ### Install this project locally
 You can download the entire project or clone locally by running the following command from your terminal:
 
-CODE
+```
+git clone https://github.com/tinjure20/frontity-csstricks-demo.git
+```
 
 This will create a directory in the project folder.
 
