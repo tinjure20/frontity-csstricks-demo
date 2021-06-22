@@ -1,22 +1,29 @@
-# A Starter Frontity Demo theme 
+# A Demo Frontity Starter Theme for CSS-Tricks Article
 
-This is the repository for the for [CSS-Tricks](https://css-tricks.com/) article .....
+This repository contains all the Frontity package/libre-theme codes that were discussed in [CSS-Tricks](https://css-tricks.com/) article .....
 
-SCREENSHOT GOES HERE
+![image](./screenshot.png)
+Frontity Labre-theme package screenshot 
+
+
+You can find package/labre-theme codes under `src/`
+ folder
 
 ### Install this project locally
+You can download the entire project or clone locally by running the following command from your terminal:
 
 CODE
 
+This will create a directory in the project folder.
 
-## Other helpful resources from Frontit
+Next, change the directory to project folder and run the following command to install npm:
 
-#### Table of Contents
+```
+npm install
+```
 
-- [Launch a development server](#launch-a-development-server)
-- [Create your custom theme](#create-your-custom-theme)
-- [Create a production-ready build](#create-a-production-ready-build)
-- [Deploy](#deploy)
+This will install all the necessary dependencies in the local `node_modules` folder to run your fronting project.
+
 
 ### Launch a development server
 
@@ -28,8 +35,15 @@ Runs the app in development mode. Open http://localhost:3000 to view it in the b
 
 The site will automatically reload if you make changes inside the `packages` folder. You will see the build errors in the console.
 
-> Have a look at our [Quick Start Guide](https://docs.frontity.org/getting-started/quick-start-guide)
+## Other helpful resources from Frontity
 
+> Have a look at our [Quick Start Guide](https://docs.frontity.org/getting-started/quick-start-guide)
+#### Table of Contents
+
+- [Launch a development server](#launch-a-development-server)
+- [Create your custom theme](#create-your-custom-theme)
+- [Create a production-ready build](#create-a-production-ready-build)
+- [Deploy](#deploy)
 ### Create your custom theme
 
 ```
