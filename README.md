@@ -5,8 +5,7 @@ This repository contains all the Frontity package/libre-theme codes that were di
 ![image](./screenshot.png)
 
 
-You can find package/labre-theme codes under `src/`
- folder
+You can all codes under `package/labre-theme` folder
 
 ### Install this project locally
 You can download the entire project or clone locally by running the following command from your terminal:
