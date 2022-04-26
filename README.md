@@ -1,6 +1,6 @@
 # A Demo Frontity Starter Theme for CSS-Tricks Article
 
-This repository contains all the Frontity package/libre-theme codes that were discussed in [CSS-Tricks](https://css-tricks.com/) article .....
+This repository contains all the Frontity package/libre-theme codes that were discussed in [CSS-Tricks](https://css-tricks.com/) article [Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme](https://css-tricks.com/mars-theme-a-deep-look-at-frontitys-headless-wordpress-theme/).
 
 ![image](./screenshot.png)
 
